@@ -2,7 +2,7 @@
 
 MedTech is an intelligent, user-friendly disease prediction system designed to provide preliminary health insights based on user-reported symptoms. By leveraging a comprehensive database of diseases and their corresponding symptoms, this tool helps users identify potential health conditions, understand the associated risk levels, and find the appropriate medical specialist for consultation.
 
-![MedTech Logo](finalwhite.png)
+
 
 ## 📋 Table of Contents
 
